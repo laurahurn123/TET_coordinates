@@ -1,2 +1,3 @@
 # TET_coordinates
-from email ; format → civ
+javascript
+copy and paste email into const str = ''
