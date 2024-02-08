@@ -1,11 +1,4 @@
-const str = 'User mt875 sent data
-
-Flag for follow up.
-Flag for follow up.
-Milena Trabszo <milenatrabszo@gmail.com>
-​
-Mindwandering Cambridge Project
-​
+const str = '
 Time,Category,Action,Question,Answer,Point ID,x value,y value,QuestionnairesValues,
 2024-02-08 10:37:32.230 am,Sign In,Application Start,,,,,,,
 2024-02-08 10:37:37.751 am,Sign in,Filled Name,Username,mt875_,,,,,
