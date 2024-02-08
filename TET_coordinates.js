@@ -1,5 +1,4 @@
-const str = '
-Time,Category,Action,Question,Answer,Point ID,x value,y value,QuestionnairesValues,
+const str = 'Time,Category,Action,Question,Answer,Point ID,x value,y value,QuestionnairesValues,
 2024-02-08 10:37:32.230 am,Sign In,Application Start,,,,,,,
 2024-02-08 10:37:37.751 am,Sign in,Filled Name,Username,mt875_,,,,,
 2024-02-08 10:37:39.610 am,Sign in,Press button: Enter,,,,,,,
