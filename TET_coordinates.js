@@ -4811,8 +4811,7 @@ const str = 'Time,Category,Action,Question,Answer,Point ID,x value,y value,Quest
 2024-02-08 11:00:32.277 am,Tasks,Press button: Daily traces,,,,,,,
 2024-02-08 11:00:34.729 am,MENU,Press button: Definitions,,,,,,,
 2024-02-08 11:00:38.428 am,MENU,Press button: Log out,,,,,,,
-2024-02-08 11:00:38.562 am,Sign in,Application Quit,,,,,,,
- '
+2024-02-08 11:00:38.562 am,Sign in,Application Quit,,,,,,,'
 const delimited = str.split(";").filter((v) => v !== "");
 
 let final = [];
